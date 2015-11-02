@@ -14,6 +14,16 @@
                 <MenuItem mnemonicParsing="false" text="Action 1" />
               </items>
             </Menu>
+            <Menu mnemonicParsing="false" text="Rule Set">
+              <items>
+                <MenuItem mnemonicParsing="false" text="5 Card Joker Poker" />
+                  <MenuItem mnemonicParsing="false" text="5 Card Wild Poker (Dueces Wild)" />
+                  <MenuItem mnemonicParsing="false" text="5 Card Draw" />
+                  <MenuItem mnemonicParsing="false" text="7 Card Draw" />
+                  <MenuItem mnemonicParsing="false" text="Texas Hold 'Em" />
+                  <MenuItem mnemonicParsing="false" text="Omaha" />
+              </items>
+            </Menu>
           <Menu mnemonicParsing="false" text="File">
             <items>
                   <MenuItem mnemonicParsing="false" onAction="#handleNew" text="New" />
